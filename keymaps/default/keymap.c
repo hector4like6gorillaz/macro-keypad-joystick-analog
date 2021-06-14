@@ -33,13 +33,13 @@ enum custom_keycodes {
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    
+    /*
     |--------------------|
     |bt1m|btn2|btn3|nobtn|
     |----+----+----+-----|
     |bt1m|btn2|btn3|btn4 |
     |----+----+----+-----|
-    
+    */
     
     [_BASE] = LAYOUT(
         KC_A,    KC_1,   KC_2,
