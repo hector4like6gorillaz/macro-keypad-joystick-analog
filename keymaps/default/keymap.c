@@ -37,7 +37,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     |--------------------|
     |bt1m|btn2|btn3|nobtn|
     |----+----+----+-----|
-    |bt1m|btn2|btn3|nobtn|
+    |bt1m|btn2|btn3|btn4 |
     |----+----+----+-----|
     
     
